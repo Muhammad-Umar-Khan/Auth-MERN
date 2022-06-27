@@ -1,0 +1,26 @@
+.Register-content{
+    margin-left: 35%;
+    margin-top: 10%;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    background-color: pink;
+    border: 2px solid rgb(221, 216, 216);
+    border-radius: 5px;
+
+}
+
+.Register-content > input{
+    margin-top: 5px;
+    font-size: medium;
+    height: 20px;    
+}
+
+.Register-content > button{
+    font-size: large;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+}
